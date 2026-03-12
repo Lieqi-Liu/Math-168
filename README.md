@@ -25,10 +25,10 @@ The notebook:
 
 ## Note
 This notebook was created in Google Colab. If needed, change file paths like:
-'''python
+```python
 pd.read_csv('/content/stockData.csv')
-'''
+```
 to 
-'''python
+```python
 pd.read_csv('stockData.csv')
-'''
+```
